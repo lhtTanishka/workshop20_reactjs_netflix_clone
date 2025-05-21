@@ -1,4 +1,1 @@
-# Netflix UI clone with React.js
-## _This is the directory_
----
-
+# Netflix clone with React.js
